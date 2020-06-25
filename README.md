@@ -1,0 +1,2 @@
+# GA-DA-for-feature-select
+In the Python environment, the genetic algorithm and the dragonfly algorithm are first combined to form a modified dragonfly genetic algorithm, and the effectiveness of the improved method is verified by using the test function. Secondly, the improved algorithm and decision tree are applied to feature selection (classification task) to remove redundant features from the original features
